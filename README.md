@@ -2,4 +2,6 @@
 
 I don't use Github anymore, and have migrated all my repositories to a personal self-hosted Gitea instance.
 
-I am working on creating a public instance, and will update this page as it releases.
+For all my public work, I now will be posting those on Codeberg.
+
+https://codeberg.org/astn
