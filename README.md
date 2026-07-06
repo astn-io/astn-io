@@ -1,5 +1,7 @@
-# 👋 Goodbye, Github.
+# Austin Hagel
 
-I don't use Github anymore, and have migrated all my repositories to a personal self-hosted Forgejo instance.
+## Where are the projects?
 
-https://git.astn.io
+You can find all my projects at **[git.astn.io](https://git.astn.io)** as I don't use Github anymore.
+
+Everything I had here has been migrated to a personal, self-hosted Forgejo instance.
