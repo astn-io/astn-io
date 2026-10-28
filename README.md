@@ -20,6 +20,4 @@ with backup mirrors on **Codeberg** whenever I can.
 <a href="https://discordapp.com/users/1163707512642613338"><img src="https://img.shields.io/badge/Discord-Message%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://www.linkedin.com/in/astnio/"><img src="https://img.shields.io/badge/LinkedIn-astnio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
----
-
 </div>
