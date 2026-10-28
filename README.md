@@ -22,6 +22,4 @@ with backup mirrors on **Codeberg** whenever I can.
 
 ---
 
-<sub>This account is no longer maintained — issues and pull requests here probably won't be seen.</sub>
-
 </div>
